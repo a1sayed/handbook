@@ -4,7 +4,7 @@ next_section: what-we-value.html
 ---
 # What is this?
 
-This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Stylight works and why.
+This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Stylight works and why. noice
 
 [Stylight](http://www.stylight.com) is a product company based in Munich (Germany) with another office in Philadelphia (US).
 
